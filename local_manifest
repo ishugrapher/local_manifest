@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="vendor/realme/RMX3031-firmware" name="ishugrapher/vendor_realme_RMX3031-firmware-1.git" remote="github" revision="main" />
+ <project path="device/realme/RMX3031" name="ishugrapher/android_device_realme_RMX3031.git" remote="github" revision="thirteen" />
+ <project path="vendor/realme/RMX3031" name="realme-mt6893-dev/proprietary_vendor_realme_RMX3031.git" remote="github" revision="thirteen" />
+ <project path="kernel/realme/RMX3031" name="ishugrapher/android_kernel_realme_mt6893.git" remote="github" revision="main" />
+ 
+</manifest>
